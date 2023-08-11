@@ -59,7 +59,7 @@ CREATE TABLE Feeding (
 
 
 
---Script of Information Insertion 
+--Information Insertion 
 
 INSERT INTO Tank (tank_id, tank_name, tank_size, tank_type, tank_filter, tank_heater)
 VALUES (1, 'Tank 1', 'Small', 'Freshwater', 'Yes', 'No');
